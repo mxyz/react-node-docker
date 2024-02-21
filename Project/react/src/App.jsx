@@ -6,7 +6,7 @@ import PostUser from "./components/PostUser";
 import GetAllUser from "./components/GetAllUser";
 
 export default function App() {
-  console.log("test 2");
+  console.log("test 2 3");
   return (
     <BrowserRouter>
       <Routes>
